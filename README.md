@@ -1,4 +1,4 @@
-# minimal-card
+# Minimal Blog Card
 ## Overview
 The project is all about designing a card that resemble the design provided 
 
@@ -7,5 +7,4 @@ How to design a card using the css and html properties,get more knowledge on how
 
 ## Build With
 Html semantic
-css
-Css Card properties
+Css properties
